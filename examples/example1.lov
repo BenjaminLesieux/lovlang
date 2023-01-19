@@ -1,0 +1,6 @@
+object main
+    def main(args: string[]): void
+        if (value::length)
+            print("this value is empty")
+
+
